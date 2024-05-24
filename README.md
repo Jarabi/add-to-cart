@@ -9,3 +9,7 @@ Add-to-cart application made using HTML, CSS and vanilla JS and Firebase as a ba
 ## Database
 
 <img src="./assets/firebase-backend.png" width="400">
+
+## Hosted site
+
+View hosted site [here](https://jarabi.github.io/add-to-cart/)
